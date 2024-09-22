@@ -10,7 +10,7 @@ Through this portfolio, you can explore the projects I've worked on, as well as 
 
 You can watch a demonstration of the portfolio in the following Vimeo video:
 
-[![Portfolio - Adrián Lardiés Utrilla](https://img.youtube.com/vi/1011792460/0.jpg)](https://vimeo.com/1011792460?share=copy#t=0)
+[![Portfolio - Adrián Lardiés Utrilla](https://i.ibb.co/Nn4wSm8/thumb.jpg)](https://vimeo.com/1011792460?share=copy#t=0)
 
 ## Project Structure
 
